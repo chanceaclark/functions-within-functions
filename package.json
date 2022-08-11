@@ -1,0 +1,17 @@
+{
+  "name": "functions-within-functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01_review.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "prettier": "@bigcommerce/eslint-config/prettier",
+  "devDependencies": {
+    "@bigcommerce/eslint-config": "^2.6.1",
+    "eslint": "^8.21.0",
+    "typescript": "^4.7.4"
+  }
+}
